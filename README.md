@@ -1,1 +1,1 @@
-# Chat-Analysis
+I analyzed WhatsApp group chat data using Python and NLP techniques, focusing on text cleaning and preprocessing with Regex. I applied basic NLP methods to extract insights, perform sentiment analysis, and identify key trends within the messages. This project helped in understanding communication patterns and sentiment shifts within group conversations.
